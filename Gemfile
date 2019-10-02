@@ -8,6 +8,7 @@ end
 gem 'bootstrap-sass', '= 3.3.0.0'
 gem 'influxdb'
 gem 'influxdb-rails'
+gem 'simple_form'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.7', '>= 5.0.7.2'
